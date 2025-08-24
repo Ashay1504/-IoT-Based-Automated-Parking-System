@@ -49,7 +49,7 @@ The Arduino code for this project is available in `ParkingSystem.ino`.
 ---
 
 ## Author
-Archisha Bodhmage
+Ashay Kumar
 
 ## License
 This project is open-source under the MIT License.
